@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shubham</string>
+    <string name="textview">TextView</string>
+    <string name="please_wait">Please Wait..</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_roll_no">Enter Your Roll No</string>
+    <string name="enroll">ENROLL</string>
+</resources>
